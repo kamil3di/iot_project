@@ -1,1 +1,1 @@
-# Predicting air quality value in ppm using temperature and humidity  
+# Predicting air quality value(MQ-135) in ppm using temperature and humidity  
