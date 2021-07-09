@@ -1,4 +1,4 @@
-# Predicting air quality value(MQ-135) in ppm using temperature and humidity  
+# Predicting air quality value(MQ-135) in PPM using temperature and humidity  
 [Report of project in PDF format](https://github.com/kamil3di/iot_project/blob/main/EEES406-Final_Report.pdf) 
 
 [Main code](https://github.com/kamil3di/iot_project/blob/main/model.py)
