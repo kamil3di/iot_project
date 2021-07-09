@@ -47,4 +47,3 @@ try:
 except KeyboardInterrupt:
     print("Cleanup")
     GPIO.cleanup()
-#client.loop(2)
